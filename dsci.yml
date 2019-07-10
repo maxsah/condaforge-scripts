@@ -1,0 +1,10 @@
+name: dsci_cf
+channels:
+  - conda-forge
+dependencies: 
+  - jupyterlab
+  - pandas
+  - requests
+  - beautifulsoup4
+  - tqdm
+  - pygithub
