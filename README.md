@@ -1,2 +1,5 @@
 # condaforge-scripts
-Small utility scripts to aid in getting stats from conda-forge
+
+If it's stupid, and it works, it's probably this code. 
+
+So feel free to pull request for more elegant solutions
